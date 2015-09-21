@@ -1,0 +1,149 @@
+[15-Mar-2015 22:50:53 America/New_York] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/wayimsfi/public_html/app/snippets/processing.php on line 107
+[16-Mar-2015 04:43:31 America/New_York] PHP Fatal error:  Class 'DB' not found in /home/wayimsfi/public_html/app/snippets/processing.php on line 111
+[16-Mar-2015 04:43:33 America/New_York] PHP Warning:  Unterminated comment starting line 312 in /home/wayimsfi/public_html/app/snippets/class.mysqli.php on line 312
+[16-Mar-2015 04:43:33 America/New_York] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/wayimsfi/public_html/app/snippets/class.mysqli.php on line 322
+[16-Mar-2015 04:43:35 America/New_York] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/wayimsfi/public_html/app/snippets/class.util.php on line 148
+[16-Mar-2015 04:43:36 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/wayimsfi/public_html/app/snippets/class.util.php on line 2419
+[04-Apr-2015 07:51:59 America/New_York] PHP Notice:  Undefined variable: loggedInUser in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 99
+[04-Apr-2015 07:51:59 America/New_York] PHP Notice:  Undefined variable: user_loggedin_id in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 140
+[10-Apr-2015 16:30:56 America/New_York] PHP Notice:  Undefined variable: loggedInUser in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 99
+[10-Apr-2015 16:30:56 America/New_York] PHP Notice:  Undefined variable: user_loggedin_id in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 140
+[17-Apr-2015 02:27:47 America/New_York] PHP Notice:  Undefined variable: row in /home/wayimsfi/public_html/app/snippets/HNAuthLib/HNAuth.php on line 46
+[19-Apr-2015 12:16:09 America/New_York] PHP Notice:  Undefined variable: loggedInUser in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 99
+[19-Apr-2015 12:16:09 America/New_York] PHP Notice:  Undefined variable: user_loggedin_id in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 140
+[27-Apr-2015 10:55:31 America/New_York] PHP Notice:  Undefined variable: loggedInUser in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 99
+[27-Apr-2015 10:55:31 America/New_York] PHP Notice:  Undefined variable: user_loggedin_id in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 140
+[02-May-2015 14:40:13 America/New_York] PHP Notice:  Undefined variable: loggedInUser in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 99
+[02-May-2015 14:40:13 America/New_York] PHP Notice:  Undefined variable: user_loggedin_id in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 140
+[05-May-2015 22:57:24 America/New_York] PHP Notice:  Undefined variable: row in /home/wayimsfi/public_html/app/snippets/HNAuthLib/HNAuth.php on line 46
+[07-May-2015 03:39:14 America/New_York] PHP Notice:  Undefined variable: row in /home/wayimsfi/public_html/app/snippets/HNAuthLib/HNAuth.php on line 46
+[07-May-2015 03:40:33 America/New_York] PHP Notice:  Undefined variable: snippet_name in /home/wayimsfi/public_html/app/snippets/view_snippet.php on line 83
+[07-May-2015 03:40:33 America/New_York] PHP Notice:  Undefined variable: snippet_desc in /home/wayimsfi/public_html/app/snippets/view_snippet.php on line 84
+[07-May-2015 03:40:33 America/New_York] PHP Notice:  Undefined variable: snippet_creator in /home/wayimsfi/public_html/app/snippets/view_snippet.php on line 85
+[07-May-2015 03:40:33 America/New_York] PHP Notice:  Undefined variable: snippet_user_id in /home/wayimsfi/public_html/app/snippets/view_snippet.php on line 181
+[07-May-2015 03:40:33 America/New_York] PHP Notice:  Undefined variable: snippet_name in /home/wayimsfi/public_html/app/snippets/view_snippet.php on line 188
+[07-May-2015 03:40:33 America/New_York] PHP Notice:  Undefined variable: snippet_cat_color in /home/wayimsfi/public_html/app/snippets/view_snippet.php on line 189
+[07-May-2015 03:40:33 America/New_York] PHP Notice:  Undefined variable: snippet_cat in /home/wayimsfi/public_html/app/snippets/view_snippet.php on line 189
+[07-May-2015 03:40:33 America/New_York] PHP Notice:  Undefined variable: snippet_desc in /home/wayimsfi/public_html/app/snippets/view_snippet.php on line 190
+[07-May-2015 03:40:33 America/New_York] PHP Notice:  Undefined variable: snippet_output in /home/wayimsfi/public_html/app/snippets/view_snippet.php on line 194
+[07-May-2015 03:40:33 America/New_York] PHP Notice:  Undefined variable: snippet_created_time in /home/wayimsfi/public_html/app/snippets/view_snippet.php on line 199
+[07-May-2015 03:40:33 America/New_York] PHP Notice:  Undefined variable: snippet_updated_time in /home/wayimsfi/public_html/app/snippets/view_snippet.php on line 199
+[07-May-2015 03:40:33 America/New_York] PHP Notice:  Undefined variable: snippet_creator in /home/wayimsfi/public_html/app/snippets/view_snippet.php on line 199
+[07-May-2015 03:40:33 America/New_York] PHP Notice:  Undefined variable: snippet_view_count in /home/wayimsfi/public_html/app/snippets/view_snippet.php on line 199
+[09-May-2015 15:56:31 America/New_York] PHP Notice:  Undefined variable: loggedInUser in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 99
+[09-May-2015 15:56:31 America/New_York] PHP Notice:  Undefined variable: user_loggedin_id in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 140
+[11-May-2015 23:02:07 America/New_York] PHP Notice:  Undefined variable: loggedInUser in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 99
+[11-May-2015 23:02:07 America/New_York] PHP Notice:  Undefined variable: user_loggedin_id in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 140
+[11-May-2015 23:02:47 America/New_York] PHP Notice:  Undefined variable: loggedInUser in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 99
+[11-May-2015 23:02:47 America/New_York] PHP Notice:  Undefined variable: user_loggedin_id in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 140
+[13-May-2015 02:12:45 America/New_York] PHP Notice:  Undefined variable: row in /home/wayimsfi/public_html/app/snippets/HNAuthLib/HNAuth.php on line 46
+[14-May-2015 12:06:21 America/New_York] PHP Notice:  Undefined variable: loggedInUser in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 99
+[14-May-2015 12:06:21 America/New_York] PHP Notice:  Undefined variable: user_loggedin_id in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 140
+[28-May-2015 08:43:43 America/New_York] PHP Notice:  Undefined variable: loggedInUser in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 99
+[28-May-2015 08:43:43 America/New_York] PHP Notice:  Undefined variable: user_loggedin_id in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 140
+[28-May-2015 08:43:59 America/New_York] PHP Notice:  Undefined variable: loggedInUser in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 99
+[28-May-2015 08:43:59 America/New_York] PHP Notice:  Undefined variable: user_loggedin_id in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 140
+[04-Jun-2015 21:08:06 America/New_York] PHP Notice:  Undefined variable: loggedInUser in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 99
+[04-Jun-2015 21:08:06 America/New_York] PHP Notice:  Undefined variable: user_loggedin_id in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 140
+[14-Jun-2015 19:45:22 America/New_York] PHP Notice:  Undefined variable: loggedInUser in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 99
+[14-Jun-2015 19:45:22 America/New_York] PHP Notice:  Undefined variable: user_loggedin_id in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 140
+[15-Jun-2015 05:26:37 America/New_York] PHP Notice:  Undefined variable: loggedInUser in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 99
+[15-Jun-2015 05:26:37 America/New_York] PHP Notice:  Undefined variable: user_loggedin_id in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 140
+[15-Jun-2015 05:27:06 America/New_York] PHP Notice:  Undefined variable: loggedInUser in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 99
+[15-Jun-2015 05:27:06 America/New_York] PHP Notice:  Undefined variable: user_loggedin_id in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 140
+[15-Jun-2015 05:30:35 America/New_York] PHP Notice:  Undefined variable: loggedInUser in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 99
+[15-Jun-2015 05:30:35 America/New_York] PHP Notice:  Undefined variable: user_loggedin_id in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 140
+[15-Jun-2015 05:31:04 America/New_York] PHP Notice:  Undefined variable: loggedInUser in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 99
+[15-Jun-2015 05:31:04 America/New_York] PHP Notice:  Undefined variable: user_loggedin_id in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 140
+[16-Jun-2015 23:13:24 America/New_York] PHP Notice:  Undefined variable: loggedInUser in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 99
+[16-Jun-2015 23:13:24 America/New_York] PHP Notice:  Undefined variable: user_loggedin_id in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 140
+[21-Jun-2015 13:07:51 America/New_York] PHP Notice:  Undefined variable: loggedInUser in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 99
+[21-Jun-2015 13:07:52 America/New_York] PHP Notice:  Undefined variable: user_loggedin_id in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 140
+[24-Jun-2015 11:14:19 America/New_York] PHP Notice:  Undefined variable: row in /home/wayimsfi/public_html/app/snippets/HNAuthLib/HNAuth.php on line 46
+[25-Jun-2015 00:48:10 America/New_York] PHP Notice:  Undefined variable: loggedInUser in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 99
+[25-Jun-2015 00:48:10 America/New_York] PHP Notice:  Undefined variable: user_loggedin_id in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 140
+[25-Jun-2015 00:48:13 America/New_York] PHP Notice:  Undefined variable: row in /home/wayimsfi/public_html/app/snippets/HNAuthLib/HNAuth.php on line 46
+[01-Jul-2015 02:41:19 America/New_York] PHP Notice:  Undefined variable: loggedInUser in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 99
+[01-Jul-2015 02:41:19 America/New_York] PHP Notice:  Undefined variable: user_loggedin_id in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 140
+[01-Jul-2015 02:41:33 America/New_York] PHP Notice:  Undefined variable: loggedInUser in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 99
+[01-Jul-2015 02:41:33 America/New_York] PHP Notice:  Undefined variable: user_loggedin_id in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 140
+[01-Jul-2015 02:41:40 America/New_York] PHP Notice:  Undefined variable: row in /home/wayimsfi/public_html/app/snippets/HNAuthLib/HNAuth.php on line 46
+[09-Jul-2015 04:10:57 America/New_York] PHP Notice:  Undefined variable: row in /home/wayimsfi/public_html/app/snippets/HNAuthLib/HNAuth.php on line 46
+[09-Jul-2015 16:55:07 America/New_York] PHP Notice:  Undefined variable: loggedInUser in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 99
+[09-Jul-2015 16:55:07 America/New_York] PHP Notice:  Undefined variable: user_loggedin_id in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 140
+[10-Jul-2015 01:55:54 America/New_York] PHP Notice:  Undefined variable: loggedInUser in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 99
+[10-Jul-2015 01:55:54 America/New_York] PHP Notice:  Undefined variable: user_loggedin_id in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 140
+[10-Jul-2015 04:29:22 America/New_York] PHP Notice:  Undefined variable: loggedInUser in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 99
+[10-Jul-2015 04:29:22 America/New_York] PHP Notice:  Undefined variable: user_loggedin_id in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 140
+[11-Jul-2015 08:02:05 America/New_York] PHP Notice:  Undefined variable: loggedInUser in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 99
+[11-Jul-2015 08:02:05 America/New_York] PHP Notice:  Undefined variable: user_loggedin_id in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 140
+[13-Jul-2015 08:21:44 America/New_York] PHP Notice:  Undefined variable: loggedInUser in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 99
+[13-Jul-2015 08:21:44 America/New_York] PHP Notice:  Undefined variable: user_loggedin_id in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 140
+[14-Jul-2015 07:50:26 America/New_York] PHP Notice:  Undefined variable: loggedInUser in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 99
+[14-Jul-2015 07:50:26 America/New_York] PHP Notice:  Undefined variable: user_loggedin_id in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 140
+[19-Jul-2015 01:46:35 America/New_York] PHP Notice:  Undefined variable: loggedInUser in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 99
+[19-Jul-2015 01:46:35 America/New_York] PHP Notice:  Undefined variable: user_loggedin_id in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 140
+[19-Jul-2015 14:31:37 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/tidy.so' - libtidy-0.99.so.0: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[19-Jul-2015 14:31:37 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/xmlrpc.so' - /opt/alt/php55/usr/lib64/php/modules/xmlrpc.so: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[19-Jul-2015 14:31:37 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/xmlwriter.so' - /opt/alt/php55/usr/lib64/php/modules/xmlwriter.so: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[19-Jul-2015 14:31:37 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/xsl.so' - /opt/alt/php55/usr/lib64/php/modules/xsl.so: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[19-Jul-2015 14:31:37 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/zip.so' - /opt/alt/php55/usr/lib64/php/modules/zip.so: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[19-Jul-2015 16:18:15 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/mysql.so' - /opt/alt/php55/usr/lib64/php/modules/mysql.so: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[19-Jul-2015 16:18:15 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/mysqli.so' - /opt/alt/php55/usr/lib64/php/modules/mysqli.so: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[19-Jul-2015 16:18:15 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/pdo.so' - /opt/alt/php55/usr/lib64/php/modules/pdo.so: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[19-Jul-2015 16:18:15 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/pdo_mysql.so' - /opt/alt/php55/usr/lib64/php/modules/pdo_mysql.so: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[19-Jul-2015 16:18:15 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/pdo_sqlite.so' - /opt/alt/php55/usr/lib64/php/modules/pdo_sqlite.so: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[19-Jul-2015 16:18:15 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/pgsql.so' - /opt/alt/php55/usr/lib64/php/modules/pgsql.so: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[19-Jul-2015 16:18:15 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/phar.so' - /opt/alt/php55/usr/lib64/php/modules/phar.so: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[19-Jul-2015 16:18:15 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/posix.so' - /opt/alt/php55/usr/lib64/php/modules/posix.so: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[19-Jul-2015 16:18:15 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/soap.so' - /opt/alt/php55/usr/lib64/php/modules/soap.so: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[19-Jul-2015 16:18:15 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/sockets.so' - /opt/alt/php55/usr/lib64/php/modules/sockets.so: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[19-Jul-2015 16:18:15 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/tidy.so' - /opt/alt/php55/usr/lib64/php/modules/tidy.so: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[19-Jul-2015 16:18:15 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/timezonedb.so' - /opt/alt/php55/usr/lib64/php/modules/timezonedb.so: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[19-Jul-2015 16:18:15 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/zip.so' - /opt/alt/php55/usr/lib64/php/modules/zip.so: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[19-Jul-2015 16:18:15 America/New_York] PHP Fatal error:  Call to undefined function mysqli_report() in /home/wayimsfi/public_html/app/snippets/class.mysqli.php on line 93
+[23-Jul-2015 22:53:44 America/New_York] PHP Notice:  Undefined variable: loggedInUser in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 99
+[23-Jul-2015 22:53:44 America/New_York] PHP Notice:  Undefined variable: user_loggedin_id in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 140
+[29-Jul-2015 09:45:16 America/New_York] PHP Notice:  Undefined variable: loggedInUser in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 99
+[29-Jul-2015 09:45:16 America/New_York] PHP Notice:  Undefined variable: user_loggedin_id in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 140
+[06-Aug-2015 22:25:04 America/New_York] PHP Notice:  Undefined variable: loggedInUser in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 99
+[06-Aug-2015 22:25:04 America/New_York] PHP Notice:  Undefined variable: user_loggedin_id in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 140
+[06-Aug-2015 22:29:11 America/New_York] PHP Notice:  Undefined variable: loggedInUser in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 99
+[06-Aug-2015 22:29:11 America/New_York] PHP Notice:  Undefined variable: user_loggedin_id in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 140
+[07-Aug-2015 06:45:43 America/New_York] PHP Notice:  Undefined variable: loggedInUser in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 99
+[07-Aug-2015 06:45:43 America/New_York] PHP Notice:  Undefined variable: user_loggedin_id in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 140
+[14-Aug-2015 06:45:41 America/New_York] PHP Notice:  Undefined variable: loggedInUser in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 99
+[14-Aug-2015 06:45:41 America/New_York] PHP Notice:  Undefined variable: user_loggedin_id in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 140
+[20-Aug-2015 01:27:30 America/New_York] PHP Notice:  Undefined variable: loggedInUser in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 99
+[20-Aug-2015 01:27:30 America/New_York] PHP Notice:  Undefined variable: user_loggedin_id in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 140
+[20-Aug-2015 06:25:35 America/New_York] PHP Notice:  Undefined variable: loggedInUser in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 99
+[20-Aug-2015 06:25:35 America/New_York] PHP Notice:  Undefined variable: user_loggedin_id in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 140
+[22-Aug-2015 03:03:52 America/New_York] PHP Notice:  Undefined variable: loggedInUser in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 99
+[22-Aug-2015 03:03:52 America/New_York] PHP Notice:  Undefined variable: user_loggedin_id in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 140
+[22-Aug-2015 13:54:24 America/New_York] PHP Notice:  Undefined variable: loggedInUser in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 99
+[22-Aug-2015 13:54:24 America/New_York] PHP Notice:  Undefined variable: user_loggedin_id in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 140
+[23-Aug-2015 22:16:34 America/New_York] PHP Notice:  Undefined variable: loggedInUser in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 99
+[23-Aug-2015 22:16:34 America/New_York] PHP Notice:  Undefined variable: user_loggedin_id in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 140
+[23-Aug-2015 22:16:42 America/New_York] PHP Notice:  Undefined variable: row in /home/wayimsfi/public_html/app/snippets/HNAuthLib/HNAuth.php on line 46
+[24-Aug-2015 20:09:02 America/New_York] PHP Notice:  Undefined variable: loggedInUser in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 99
+[24-Aug-2015 20:09:02 America/New_York] PHP Notice:  Undefined variable: user_loggedin_id in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 140
+[25-Aug-2015 12:46:10 America/New_York] PHP Notice:  Undefined variable: loggedInUser in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 99
+[25-Aug-2015 12:46:10 America/New_York] PHP Notice:  Undefined variable: user_loggedin_id in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 140
+[30-Aug-2015 02:15:14 America/New_York] PHP Notice:  Undefined variable: loggedInUser in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 99
+[30-Aug-2015 02:15:14 America/New_York] PHP Notice:  Undefined variable: user_loggedin_id in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 140
+[01-Sep-2015 14:47:41 America/New_York] PHP Notice:  Undefined variable: loggedInUser in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 99
+[01-Sep-2015 14:47:41 America/New_York] PHP Notice:  Undefined variable: user_loggedin_id in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 140
+[03-Sep-2015 06:29:14 America/New_York] PHP Notice:  Undefined variable: loggedInUser in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 99
+[03-Sep-2015 06:29:14 America/New_York] PHP Notice:  Undefined variable: user_loggedin_id in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 140
+[06-Sep-2015 10:13:18 America/New_York] PHP Notice:  Undefined variable: loggedInUser in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 99
+[06-Sep-2015 10:13:18 America/New_York] PHP Notice:  Undefined variable: user_loggedin_id in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 140
+[11-Sep-2015 16:38:57 America/New_York] PHP Notice:  Undefined variable: loggedInUser in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 99
+[11-Sep-2015 16:38:57 America/New_York] PHP Notice:  Undefined variable: user_loggedin_id in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 140
+[12-Sep-2015 07:13:57 America/New_York] PHP Notice:  Undefined variable: loggedInUser in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 99
+[12-Sep-2015 07:13:57 America/New_York] PHP Notice:  Undefined variable: user_loggedin_id in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 140
+[15-Sep-2015 00:32:02 America/New_York] PHP Notice:  Undefined variable: loggedInUser in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 99
+[15-Sep-2015 00:32:02 America/New_York] PHP Notice:  Undefined variable: user_loggedin_id in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 140
+[17-Sep-2015 20:09:51 America/New_York] PHP Notice:  Undefined variable: loggedInUser in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 99
+[17-Sep-2015 20:09:52 America/New_York] PHP Notice:  Undefined variable: user_loggedin_id in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 140
+[18-Sep-2015 05:41:22 America/New_York] PHP Notice:  Undefined variable: loggedInUser in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 99
+[18-Sep-2015 05:41:22 America/New_York] PHP Notice:  Undefined variable: user_loggedin_id in /home/wayimsfi/public_html/app/snippets/add_snippet.php on line 140
