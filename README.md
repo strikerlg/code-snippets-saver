@@ -14,7 +14,7 @@ This application is built from scratch, so no any PHP framework is utilized here
 1. Upload all files and folders to your web server, e.g. `/public/www/code-snippets-saver`.
 2. Modify `config.php` file for MySQL settings and application information.
 3. Go to your **phpMyAdmin**, import these two SQL files; `snippets.sql` and `HNAuthDB.sql` into the same database that you have created.
-4. Go to your URL, e.g. `http://www.example.com/code-snippets-saver` and you should the application is working.
+4. Go to your URL, e.g. `http://www.example.com/code-snippets-saver` and you should see the application is working.
 5. Create/register an account and start exploring it.
 
 > P/S: Right now, I am not supporting any issue related to this application.
