@@ -1,3 +1,5 @@
+> For now, I'm not supporting any issue related to this application.
+
 # code-snippets-saver
 
 An experimental multi-user PHP application to save code snippets with automatic syntax-highlighting based on predefined categories. The code snippets can be shared publicly or saved privately for personal use.
@@ -7,7 +9,12 @@ An experimental multi-user PHP application to save code snippets with automatic 
 ## Limitation
 
 **Version 1.0 (Experimental)**
-This application is built from scratch, so no any PHP framework is utilized here. The code syntax highlighting is powered by [highlight.js](https://highlightjs.org/) which automatically detects the programming language and applies the highlighting. The categories are limited, preset only to _Plain Text_, _HTML_, _CSS_, _JavaScript_, _PHP_, _MySQL_, _DOS_ and _C#_. No administration system.
+
+* Built from scratch, no any PHP framework is used.
+* Code syntax highlighting is powered by [highlight.js](https://highlightjs.org/) with generic detection of languages.
+* Snippet categories are limited, preset only to _Plain Text_, _HTML_, _CSS_, _JavaScript_, _PHP_, _MySQL_, _DOS_ and _C#_.
+* No administration system.
+* User management is using my custom-made user management module called `HNAuth`.
 
 ## Installation
 
@@ -16,8 +23,6 @@ This application is built from scratch, so no any PHP framework is utilized here
 3. Go to your **phpMyAdmin**, import these two SQL files; `snippets.sql` and `HNAuthDB.sql` into the same database that you have created.
 4. Go to your URL, e.g. `http://www.example.com/code-snippets-saver` and you should see the application is working.
 5. Create/register an account and start exploring it.
-
-> P/S: Right now, I am not supporting any issue related to this application.
 
 # License
 
