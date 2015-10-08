@@ -1,10 +1,12 @@
 > For now, I'm not supporting any issue related to this application.
 
+---
+
 # code-snippets-saver
 
 An experimental multi-user PHP application to save code snippets with automatic syntax-highlighting based on predefined categories. The code snippets can be shared publicly or saved privately for personal use.
 
-**Live URL:** http://wayi.me/app/snippets
+**Demo URL:** [http://wayi.me/app/snippets](http://wayi.me/app/snippets)
 
 ## Limitation
 
@@ -26,4 +28,4 @@ An experimental multi-user PHP application to save code snippets with automatic 
 
 # License
 
-Released under MIT license.
+MIT License
