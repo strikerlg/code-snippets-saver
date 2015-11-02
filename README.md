@@ -1,6 +1,4 @@
-> For now, I'm not supporting any issue related to this application.
-
----
+> **NOTE:** Please note that, I'm not supporting any issue related to this application anymore.
 
 # code-snippets-saver
 
