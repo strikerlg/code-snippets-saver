@@ -4,7 +4,7 @@
 
 An experimental multi-user PHP application to save code snippets with automatic syntax-highlighting based on predefined categories. The code snippets can be shared publicly or saved privately for personal use.
 
-**Demo URL:** [http://wayi.me/app/snippets](http://wayi.me/app/snippets)
+~~**Demo URL:** [http://wayi.me/app/snippets](http://wayi.me/app/snippets)~~
 
 ## Limitation
 
